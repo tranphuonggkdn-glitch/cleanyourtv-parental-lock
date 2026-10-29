@@ -1,0 +1,15 @@
+{
+  "name": "CleanYourTV R15 Parental Lock Pilot",
+  "tag": "r15-pilot",
+  "status": "PRE_RELEASE_NOT_PRODUCTION_CERTIFIED",
+  "android_min_sdk": 30,
+  "package": "com.gathin.tvhome",
+  "apk_sha256": "e4b64d52ad25b88ac50d2d2594ace074391cf7ef00790dbaf66dc1e0125efa03",
+  "signer_sha256": "e2e97a5ce9b617a1f053e3f2c25ffb736609e516fa039dba589385e2368ab742",
+  "install_policy": "new Android TV only; never overwrites existing app or changes Home/Accessibility",
+  "upstream": "https://github.com/Gathin23/cleanyourtv",
+  "licenses": [
+    "MIT",
+    "SIL OFL 1.1"
+  ]
+}
